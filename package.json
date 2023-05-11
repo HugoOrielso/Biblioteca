@@ -1,0 +1,27 @@
+{
+  "name": "biblioteca",
+  "version": "1.0.0",
+  "description": "The students of the university FESC of city Cúcuta have created a application of books, which allow update books, read books, known who must return a book and more funcions.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoOrielso/Biblioteca.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HugoOrielso/Biblioteca/issues"
+  },
+  "homepage": "https://github.com/HugoOrielso/Biblioteca#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
